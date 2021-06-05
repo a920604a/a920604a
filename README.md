@@ -36,6 +36,5 @@ Here are some ideas to get you started:
 
 [![github](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/a920604a)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-yuan-2b4b7212b/)
-[![instagram](https://img.shields.io/badge/-Instagram-brightgreen?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuan3509/)
-[![facebook](https://img.shields.io/badge/-facebook-blue?)](https://www.facebook.com/yu.an.1800/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuan3509/)
 
