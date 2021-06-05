@@ -39,9 +39,16 @@ Here are some ideas to get you started:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuan3509/)
 
 
-<a href="https://github.com/a920604a/a920604a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=a920604a" />
-</a>
+
 <a href="https://github.com/a920604a/resume">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=resume" />
 </a>
+
+<a href="https://github.com/a920604a/blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=blog" />
+</a>
+
+<a href="https://github.com/a920604a/gitbook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=gitbook" />
+</a>
+
