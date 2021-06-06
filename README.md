@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a920604a&layout=compact&theme=midnight-purple)](https://github.com/a920604a/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a920604a)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+
 #### Find Me
 
 [![github](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/a920604a)
