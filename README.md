@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 #### :bulb: &nbsp; My Time on GitHub
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a920604a&theme=nightowl)](https://github.com/a920604a/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a920604a&layout=compact&theme=midnight-purple)](https://github.com/a920604a/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?a920604a&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime@a920604a&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Find Me
