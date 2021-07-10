@@ -49,7 +49,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=blog" />
 </a>
 
-<a href="https://github.com/a920604a/gitbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=gitbook" />
-</a>
 
