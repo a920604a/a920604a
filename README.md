@@ -3,7 +3,7 @@
 #### :seedling: &nbsp; About Me
 
 - :house: &nbsp; From **Taiwan** 🇹🇼: and currently based in **Taipei, Taiwan**
-- :speech_balloon: &nbsp; Talk to me about **Python**, **Docker** and **Data Engineer**
+- :speech_balloon: &nbsp; Talk to me about **Python**, **Docker** and **Software Engineer**
 
 
 #### :books: &nbsp; Things I'm Currently Learning
