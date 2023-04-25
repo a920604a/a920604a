@@ -9,9 +9,9 @@
 #### :books: &nbsp; Things I'm Currently Learning
 
 - Python
-- Writing blog
 - Oriented Object Program
 - Design Pattern
+- Learn frontend and backend
 
 <!--
 **a920604a/a920604a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
