@@ -3,7 +3,7 @@
 #### :seedling: &nbsp; About Me
 
 - :house: &nbsp; From **Taiwan** 🇹🇼: and currently based in **Taipei, Taiwan**
-- :speech_balloon: &nbsp; Talk to me about **Python**, **Docker** and **Software Engineer**
+- :speech_balloon: &nbsp; Talk to me about **Full Stack**, **Docker** and **Data Engineer**
 
 
 #### :books: &nbsp; Things I'm Currently Learning
@@ -11,8 +11,9 @@
 - Python
 - Learn frontend and backend
 - C# and unity develop app
-- Oriented Object Program
 - Design Pattern
+- Full Stack Developer(Frontend + Backend + DB + Algo)
+- Data Engineer (DB + ETL) 
 
 <!--
 **a920604a/a920604a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
