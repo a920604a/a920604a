@@ -11,9 +11,10 @@
 - Python
 - Learn frontend and backend
 - C# and unity develop app
-- Design Pattern
+- Design Pattern/System Design
 - Full Stack Developer(Frontend + Backend + DB + Algo)
-- Data Engineer (DB + ETL) 
+- Data Engineer (DB + ETL)
+- ML/DL/GenAI
 
 <!--
 **a920604a/a920604a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
