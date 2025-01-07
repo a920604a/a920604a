@@ -44,12 +44,8 @@ Here are some ideas to get you started:
 
 
 #### I'm going to build these project with heart 
-<a href="https://github.com/a920604a/resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=resume" />
-</a>
-
-<a href="https://github.com/a920604a/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=blog" />
+<a href="https://github.com/a920604a/self-reusme-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=self-reusme-website" />
 </a>
 
 
