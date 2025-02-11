@@ -2,7 +2,7 @@
 
 #### :seedling: &nbsp; About Me
 
-- :house: &nbsp; From **Taiwan** 🇹🇼: and currently based in **Taipei, Taiwan**
+- :house: &nbsp; From **Taiwan** TW: and currently based in **Taipei, Taiwan**
 - :speech_balloon: &nbsp; Talk to me about **Full Stack**, **Docker** and **Data Engineer**
 
 
