@@ -107,9 +107,3 @@ Here are some ideas to get you started:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuan3509/)
 
 
-## I'm going to build these project with heart 
-<a href="https://github.com/a920604a/self-reusme-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a920604a&repo=self-reusme-website" />
-</a>
-
-
