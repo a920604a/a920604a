@@ -1,20 +1,59 @@
-### Hi there I'm Yu-An,Chen 👋
-
-#### :seedling: &nbsp; About Me
+# Hi there I'm Yu-An,Chen 👋
+- [名片](https://github.com/a920604a/my-business-card)
+- [個人網站](https://a920604a.github.io/self-reusme-website/)
+### :seedling: &nbsp; About Me
 
 - :house: &nbsp; From **Taiwan** TW: and currently based in **Taipei, Taiwan**
 - :speech_balloon: &nbsp; Talk to me about **Full Stack**, **Docker** and **Data Engineer**
 
 
-#### :books: &nbsp; Things I'm Currently Learning
+### :books: &nbsp; Things I'm Currently Learning
 
 - Python
 - Learn frontend and backend
+  - Fronted :
+    - [My Business Card](https://github.com/a920604a/my-business-card)
+    - [resign-stamp](https://github.com/a920604a/resign-stamp)
+    - [to-do-list](https://github.com/a920604a/to-do-list)
+    - [habit-tracker](https://github.com/a920604a/habit-tracker)
+    - [self-reusme-website](https://a920604a.github.io/self-reusme-website/)
+  - Backend
+    - [clothes-outfit](https://github.com/a920604a/clothes-outfit)
 - C# and unity develop app
+  - [中英單字問答遊戲](https://github.com/a920604a/WordStep/tree/main)
+  - [Age-related Macular Degeneration Rehabilitation Platform](https://github.com/a920604a/amd)
 - Design Pattern/System Design
 - Full Stack Developer(Frontend + Backend + DB + Algo)
+  -  [Stock Price Prediction with MLOps](https://github.com/a920604a/stock-mlops)
 - Data Engineer (DB + ETL)
+  - [daodao-etl](https://github.com/a920604a/daodao-etl)
+  - [GitHub Data Analytics Pipeline](https://github.com/a920604a/data-engineering-zoomcamp-2025/tree/main/project)
 - ML/DL/GenAI
+- DevOps
+  - [monitoring_system](https://github.com/a920604a/monitoring_system)
+
+
+### certifications
+To strengthen my expertise in AI and Data Science, I’ve earned multiple industry-recognized certifications, including:
+
+On-Going
+- MLOps Zoomcamp on-going (DataTalks Club) 
+- LLM Zoomcamp on-going (DataTalks Club) 
+
+2025
+- [Data Engineering Zoomcamp Graduate (DataTalks Club)](https://certificate.datatalks.club/dezoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
+
+2023
+- [Generative Adversarial Networks(GANs) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EENG4FP5STMQ)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/L88CWB23RWTB)
+- [Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MWXPM3WSLGY5)
+
+- [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/F69TUC5CAXH9)
+
+2022
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/FK92ESQX37SX)
+- [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/T5V6SLCN3KRY)
+
 
 <!--
 **a920604a/a920604a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
