@@ -46,7 +46,7 @@ I built a GitHub Data Analytics Pipeline leveraging **GCP**, **Airflow**, and **
 
 ---
 
-### 👚 Clothing Recommendation Platform - "今天有衣服"  
+### 👚 Clothing Recommendation Platform 
 I built a clothing recommendation platform that integrates **web scraping**, **ETL**, **Redis caching**, a **FastAPI backend**, and a **React frontend** to provide outfit suggestions based on location styles, color palettes, and gender filters.  
 🔧 *Tech Stack: MySQL, Redis, FastAPI, React, Tailwind CSS, Docker Compose*
 
