@@ -1,4 +1,4 @@
-# Hi there I'm Yu-An,Chen 👋
+# Hi there I'm Tim or Yu-An,Chen 👋
 - [名片](https://github.com/a920604a/my-business-card)
 - [個人網站](https://a920604a.github.io/self-reusme-website/)
 ### :seedling: &nbsp; About Me
