@@ -40,26 +40,26 @@ I built a full MLOps pipeline for stock price prediction, featuring automated ET
 
 ## 🚀 Featured Projects
 
-### 📊 GitHub Data Analytics Pipeline  
+#### 📊 GitHub Data Analytics Pipeline  
 I built a GitHub Data Analytics Pipeline leveraging **GCP**, **Airflow**, and **BigQuery** to automate the processing of GitHub Watch events and deliver real-time insights into open-source trends and developer engagement via a **Streamlit** dashboard.  
 🔧 *Tech Stack: GCP, Airflow, BigQuery, Python, Streamlit, Terraform*
 
 ---
 
-### 👚 Clothing Recommendation Platform 
+#### 👚 Clothing Recommendation Platform 
 I built a clothing recommendation platform that integrates **web scraping**, **ETL**, **Redis caching**, a **FastAPI backend**, and a **React frontend** to provide outfit suggestions based on location styles, color palettes, and gender filters.  
 🔧 *Tech Stack: MySQL, Redis, FastAPI, React, Tailwind CSS, Docker Compose*
 
 ---
 
-### 📈 Stock Price Prediction with MLOps  
+#### 📈 Stock Price Prediction with MLOps
 I built a full **MLOps pipeline** for stock price prediction, featuring **automated ETL**, **model training**, **experiment tracking**, **real-time inference**, **monitoring**, and **CI/CD** — powered by **FastAPI**, **Prefect**, **MLflow**, and **Grafana** on a Dockerized infrastructure.  
 🔧 *Tech Stack: Prefect, MLflow, FastAPI, Prometheus, Grafana, PostgreSQL, ClickHouse, Docker Compose, GitHub Actions*
 
 ---
 
 
-## certifications
+## Certifications
 To strengthen my expertise in AI and Data Science, I’ve earned multiple industry-recognized certifications, including:
 
 On-Going
