@@ -1,6 +1,6 @@
 # Hi there I'm Tim or Yu-An,Chen 👋
-- [business card](https://github.com/a920604a/my-business-card)
-- [personal website](https://a920604a.github.io/self-reusme-website/)
+- [Business card](https://github.com/a920604a/my-business-card)
+- [Personal collection](https://a920604a.github.io/self-reusme-website/)
 ## :seedling: &nbsp; About Me
 
 - :house: &nbsp; From **Taiwan** TW: and currently based in **Taipei, Taiwan**
@@ -63,10 +63,10 @@ I built a full **MLOps pipeline** for stock price prediction, featuring **automa
 To strengthen my expertise in AI and Data Science, I’ve earned multiple industry-recognized certifications, including:
 
 On-Going
-- MLOps Zoomcamp on-going (DataTalks Club) 
 - LLM Zoomcamp on-going (DataTalks Club) 
 
 2025
+- [MLOps Zoomcamp on-going (DataTalks Club)](https://certificate.datatalks.club/mlops-zoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
 - [Data Engineering Zoomcamp Graduate (DataTalks Club)](https://certificate.datatalks.club/dezoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
 
 2023
