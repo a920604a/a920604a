@@ -31,9 +31,10 @@ I built a full MLOps pipeline for stock price prediction, featuring automated ET
 - Full Stack Developer(Frontend + Backend + DB + Algo)
   - ML/DL/GenAI
      -  [Stock Price Prediction with MLOps](https://github.com/a920604a/stock-mlops)
+     -  [Arxiv Knowledge Assistant](https://github.com/a920604a/llm-assistant)
 - Data Engineer (DB + ETL)
   - [daodao-etl](https://github.com/a920604a/daodao-etl)
-  - [GitHub Data Analytics Pipeline](https://github.com/a920604a/data-engineering-zoomcamp-2025/tree/main/project)
+  - [GitHub Data Analytics Pipeline][(https://github.com/a920604a/data-engineering-zoomcamp-2025/tree/main/project](https://github.com/a920604a/gitHub-data-analytics))
 - DevOps
   - [monitoring_system](https://github.com/a920604a/monitoring_system)
 
