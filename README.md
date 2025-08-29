@@ -57,6 +57,7 @@ I built a clothing recommendation platform that integrates **web scraping**, **E
 I built a full **MLOps pipeline** for stock price prediction, featuring **automated ETL**, **model training**, **experiment tracking**, **real-time inference**, **monitoring**, and **CI/CD** — powered by **FastAPI**, **Prefect**, **MLflow**, and **Grafana** on a Dockerized infrastructure.  
 🔧 *Tech Stack: Prefect, MLflow, FastAPI, Prometheus, Grafana, PostgreSQL, ClickHouse, Docker Compose, GitHub Actions*
 
+---
 
 #### 📚 Arxiv Knowledge Assistant 
 I built an **arXiv paper knowledge retrieval platform**, implementing a complete **data ingestion**, **vector-based retrieval**, **LLM RAG**, and **visual Dashboard** system. Users can query paper abstracts, PDFs, and citation sources; developers can configure automated ingestion workflows, manage vector indexes, monitor model performance, and extend the system with personalized RAG strategies.  
