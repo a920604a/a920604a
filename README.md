@@ -12,6 +12,8 @@ I built a clothing recommendation platform that integrates web scraping, ETL, Re
 
 I built a full MLOps pipeline for stock price prediction, featuring automated ETL, model training, experiment tracking, real-time inference, monitoring, and CI/CD—powered by FastAPI, Prefect, MLflow, and Grafana on a Dockerized infrastructure.
 
+I built an AI-powered ArXiv Knowledge Retrieval Platform, implementing daily ingestion of papers, PDF/metadata storage (PostgreSQL/MinIO), vector-based retrieval (Qdrant), and LLM-powered Q&A with bilingual support, alongside a React dashboard for query history, analytics, and subscription management, orchestrated via FastAPI and Prefect, fully containerized with Docker and monitored with Prometheus/Grafana.
+
 ## :books: &nbsp; Things I'm Currently Learning
 
 - Python
