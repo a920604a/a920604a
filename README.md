@@ -61,7 +61,7 @@ I built a full **MLOps pipeline** for stock price prediction, featuring **automa
 
 #### 📚 Arxiv Knowledge Assistant 
 I built an **arXiv paper knowledge retrieval platform**, implementing a complete **data ingestion**, **vector-based retrieval**, **LLM RAG**, and **visual Dashboard** system. Users can query paper abstracts, PDFs, and citation sources; developers can configure automated ingestion workflows, manage vector indexes, monitor model performance, and extend the system with personalized RAG strategies.  
-🔧 *Tech Stack: FastAPI, Celery, Prefect, Qdrant, PostgreSQL, MinIO, React, Docker Compose, Prometheus, Grafana*
+🔧 *Tech Stack: FastAPI, Prefect, Qdrant, PostgreSQL, MinIO, React, Docker Compose, Prometheus, Grafana*
 
 ---
 
