@@ -49,12 +49,6 @@ I built a GitHub Data Analytics Pipeline leveraging **GCP**, **Airflow**, and **
 
 ---
 
-#### 👚 Clothing Recommendation Platform 
-I built a clothing recommendation platform that integrates **web scraping**, **ETL**, **Redis caching**, a **FastAPI backend**, and a **React frontend** to provide outfit suggestions based on location styles, color palettes, and gender filters.  
-🔧 *Tech Stack: MySQL, Redis, FastAPI, React, Tailwind CSS, Docker Compose*
-
----
-
 #### 📈 Stock Price Prediction with MLOps
 I built a full **MLOps pipeline** for stock price prediction, featuring **automated ETL**, **model training**, **experiment tracking**, **real-time inference**, **monitoring**, and **CI/CD** — powered by **FastAPI**, **Prefect**, **MLflow**, and **Grafana** on a Dockerized infrastructure.  
 🔧 *Tech Stack: Prefect, MLflow, FastAPI, Prometheus, Grafana, PostgreSQL, ClickHouse, Docker Compose, GitHub Actions*
