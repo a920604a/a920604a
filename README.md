@@ -72,11 +72,11 @@ I built an **arXiv paper knowledge retrieval platform**, implementing a complete
 To strengthen my expertise in AI and Data Science, I’ve earned multiple industry-recognized certifications, including:
 
 On-Going
-- LLM Zoomcamp on-going (DataTalks Club) 
 
 2025
 - [MLOps Zoomcamp on-going (DataTalks Club)](https://certificate.datatalks.club/mlops-zoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
 - [Data Engineering Zoomcamp Graduate (DataTalks Club)](https://certificate.datatalks.club/dezoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
+- [LLM Zoomcamp on-going (DataTalks Club) ](https://certificate.datatalks.club/llm-zoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
 
 2023
 - [Generative Adversarial Networks(GANs) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EENG4FP5STMQ)
