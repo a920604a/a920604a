@@ -77,7 +77,6 @@ On-Going
 - [Generative Adversarial Networks(GANs) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EENG4FP5STMQ)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/L88CWB23RWTB)
 - [Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MWXPM3WSLGY5)
-
 - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/F69TUC5CAXH9)
 
 2022
