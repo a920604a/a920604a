@@ -41,7 +41,7 @@ I built an AI-powered ArXiv Knowledge Retrieval Platform, implementing daily ing
   - [monitoring_system](https://github.com/a920604a/monitoring_system)
 
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
 #### 📊 GitHub Data Analytics Pipeline  
 I built a GitHub Data Analytics Pipeline leveraging **GCP**, **Airflow**, and **BigQuery** to automate the processing of GitHub Watch events and deliver real-time insights into open-source trends and developer engagement via a **Streamlit** dashboard.  
