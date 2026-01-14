@@ -71,8 +71,7 @@ On-Going
 - [MLOps Zoomcampb (DataTalks Club)](https://certificate.datatalks.club/mlops-zoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
 - [Data Engineering Zoomcamp (DataTalks Club)](https://certificate.datatalks.club/dezoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
 - [LLM Zoomcamp (DataTalks Club) ](https://certificate.datatalks.club/llm-zoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
-- [AWS Cloud Practitioner Essentials](https://coursera.org/share/c2ab6efb3659790648751a97213a88be)
-
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4bd28769-3d06-4018-8dde-0b518ffda54c)
 2023
 - [Generative Adversarial Networks(GANs) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EENG4FP5STMQ)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/L88CWB23RWTB)
