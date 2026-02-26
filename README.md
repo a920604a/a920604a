@@ -99,9 +99,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :bulb: &nbsp; My Time on GitHub
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a920604a&theme=nightowl)](https://github.com/a920604a/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a920604a&layout=compact&theme=midnight-purple)](https://github.com/a920604a/github-readme-stats)
-[![a920604a's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a920604a&hide_border=true&layout=compact&theme=midnight-purple)](https://wakatime.com/@a920604a)
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=a920604a&show_icons=true&count_private=true&theme=radical&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=a920604a&show_icons=true&count_private=true&theme=radical">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=a920604a&show_icons=true&count_private=true&theme=radical" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=a920604a&layout=compact&langs_count=8&theme=radical&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=a920604a&layout=compact&langs_count=8&theme=radical">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=a920604a&layout=compact&langs_count=8&theme=radical" height="200px">
+  </picture>
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a920604a&theme=radical&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
+
 
 ## Find Me
 
