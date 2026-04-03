@@ -27,7 +27,6 @@ I built an AI-powered ArXiv Knowledge Retrieval Platform, implementing daily ing
   - Backend
     - [clothes-outfit](https://github.com/a920604a/clothes-outfit)
 - C# and unity develop app
-  - [中英單字問答遊戲](https://github.com/a920604a/WordStep/tree/main)
   - [Age-related Macular Degeneration Rehabilitation Platform](https://github.com/a920604a/amd)
 - Design Pattern/System Design
 - Full Stack Developer(Frontend + Backend + DB + Algo)
