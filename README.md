@@ -20,9 +20,6 @@ I built an AI-powered ArXiv Knowledge Retrieval Platform, implementing daily ing
 - Learn frontend and backend
   - Fronted :
     - [My Business Card](https://github.com/a920604a/my-business-card)
-    - [resign-stamp](https://github.com/a920604a/resign-stamp)
-    - [to-do-list](https://github.com/a920604a/to-do-list)
-    - [habit-tracker](https://github.com/a920604a/habit-tracker)
     - [self-reusme-website](https://a920604a.github.io/self-reusme-website/)
   - Backend
     - [clothes-outfit](https://github.com/a920604a/clothes-outfit)
