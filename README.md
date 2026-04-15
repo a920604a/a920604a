@@ -65,7 +65,7 @@ On-Going
 2026
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4bd28769-3d06-4018-8dde-0b518ffda54c)
 - [Associate Data Practitioner Certification](https://www.credly.com/badges/08492f62-1208-4503-8c8d-6cc4fb777ac1/public_url)
-- [Google AI Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/7URZ23XTFWYT](https://coursera.org/share/b261efca04356eeb73cd012cfb32b313))
+- [Google AI Professional Certificate](https://coursera.org/share/b261efca04356eeb73cd012cfb32b313)
   
 2025
 - [MLOps Zoomcampb (DataTalks Club)](https://certificate.datatalks.club/mlops-zoomcamp/2025/c684daa9201c498808181466c6f1094a2d7ec611.pdf)
