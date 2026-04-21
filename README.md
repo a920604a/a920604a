@@ -1,6 +1,7 @@
 # Hi there I'm Tim or Yu-An,Chen 👋
 - [Business card](https://github.com/a920604a/my-business-card)
 - [Personal collection](https://a920604a.github.io/self-reusme-website/)
+- [My Blog](https://github.com/a920604a/engineernews)
 ## :seedling: &nbsp; About Me
 
 - :house: &nbsp; From **Taiwan** TW: and currently based in **Taipei, Taiwan**
