@@ -31,7 +31,7 @@ I built an AI-powered ArXiv Knowledge Retrieval Platform, implementing daily ing
   - ML/DL/GenAI
      -  [Stock Price Prediction with MLOps](https://github.com/a920604a/stock-mlops)
      -  [Arxiv Knowledge Assistant](https://github.com/a920604a/llm-assistant)
-   -  daodao
+  - daodao
      - [DaoDao AI Backend](https://github.com/daodaoedu/daodao-ai-backend)
      - [daodao-admin-ui](https://github.com/daodaoedu/daodao-admin-ui)
      - [daodao-storage](https://github.com/daodaoedu/daodao-storage)
