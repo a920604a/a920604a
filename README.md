@@ -28,9 +28,9 @@ I built an AI-powered ArXiv Knowledge Retrieval Platform, implementing daily ing
   - [Age-related Macular Degeneration Rehabilitation Platform](https://github.com/a920604a/amd)
 - Design Pattern/System Design
 - Full Stack Developer(Frontend + Backend + DB + Algo)
-  - ML/DL/GenAI
-     -  [Stock Price Prediction with MLOps](https://github.com/a920604a/stock-mlops)
-     -  [Arxiv Knowledge Assistant](https://github.com/a920604a/llm-assistant)
+   - [Stock Price Prediction with MLOps](https://github.com/a920604a/stock-mlops)
+   - [Arxiv Knowledge Assistant](https://github.com/a920604a/llm-assistant)
+   - [live-english-tutor](https://github.com/a920604a/live-english-tutor)
   - daodao
      - [DaoDao AI Backend](https://github.com/daodaoedu/daodao-ai-backend)
      - [daodao-admin-ui](https://github.com/daodaoedu/daodao-admin-ui)
