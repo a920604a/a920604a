@@ -1,73 +1,85 @@
 # Hi there I'm Tim or Yu-An,Chen 👋
 - [Business card](https://github.com/a920604a/my-business-card)
 - [Personal collection](https://a920604a.github.io/self-reusme-website/)
-- [My Blog](https://engineer-news.pages.dev/)
+- [EngineerNews](https://engineer-news.pages.dev/)
+
 ## :seedling: &nbsp; About Me
 
 - :house: &nbsp; From **Taiwan** TW: and currently based in **Taipei, Taiwan**
-- :speech_balloon: &nbsp; Talk to me about **Full Stack**, **Docker** and **Data Engineer**
+- :speech_balloon: &nbsp; Talk to me about **AI Engineering**, **Full Stack Development**, **Docker**, and **Data Engineering**
 
-I built a GitHub Data Analytics Pipeline leveraging GCP, Airflow, and BigQuery to automate the processing of GitHub Watch events and deliver real-time insights into open-source trends and developer engagement via a Streamlit dashboard.
 
-I built a clothing recommendation platform that integrates web scraping, ETL, Redis caching, a FastAPI backend, and a React frontend to provide outfit suggestions based on location styles, color palettes, and gender filters.
+I'm a Software Engineer focused on building AI-powered applications, scalable backend systems, and data-driven platforms.
 
-I built a full MLOps pipeline for stock price prediction, featuring automated ETL, model training, experiment tracking, real-time inference, monitoring, and CI/CD—powered by FastAPI, Prefect, MLflow, and Grafana on a Dockerized infrastructure.
+My interests include **LLM applications**, **RAG systems**, **MLOps**, **Data Engineering**, and **Cloud-native architectures**. I enjoy building end-to-end solutions, from data pipelines and backend services to user-facing products.
 
-I built an AI-powered ArXiv Knowledge Retrieval Platform, implementing daily ingestion of papers, PDF/metadata storage (PostgreSQL/MinIO), vector-based retrieval (Qdrant), and LLM-powered Q&A with bilingual support, alongside a React dashboard for query history, analytics, and subscription management, orchestrated via FastAPI and Prefect, fully containerized with Docker and monitored with Prometheus/Grafana.
+## :books: &nbsp; Technical Interests & Learning
 
-## :books: &nbsp; Things I'm Currently Learning
-
-- Python
-- Learn frontend and backend
-  - Fronted :
-    - [My Business Card](https://github.com/a920604a/my-business-card)
-    - [self-reusme-website](https://a920604a.github.io/self-reusme-website/)
-  - Backend
-    - [clothes-outfit](https://github.com/a920604a/clothes-outfit)
-- C# and unity develop app
-  - [Age-related Macular Degeneration Rehabilitation Platform](https://github.com/a920604a/amd)
-- Design Pattern/System Design
-- Full Stack Developer(Frontend + Backend + DB + Algo)
+- AI Engineering & System Design
+  - [Arxiv Knowledge Assistant](https://github.com/a920604a/llm-assistant)
+  - [live-english-tutor](https://github.com/a920604a/live-english-tutor)
+  - [EngineerNews](https://engineer-news.pages.dev/)
+- Data Engineering (DB + ETL)
+  - [GitHub Data Analytics Pipeline](https://github.com/a920604a/gitHub-data-analytics)
+  - [daodao-etl](https://github.com/a920604a/daodao-etl)
+- MLOps & Machine Learning Systems
    - [Stock Price Prediction with MLOps](https://github.com/a920604a/stock-mlops)
-   - [Arxiv Knowledge Assistant](https://github.com/a920604a/llm-assistant)
-   - [live-english-tutor](https://github.com/a920604a/live-english-tutor)
+- Full Stack Development (Frontend + Backend + Database + System Design)
   - daodao
      - [DaoDao AI Backend](https://github.com/daodaoedu/daodao-ai-backend)
      - [daodao-admin-ui](https://github.com/daodaoedu/daodao-admin-ui)
      - [daodao-storage](https://github.com/daodaoedu/daodao-storage)
-- Data Engineer (DB + ETL)
-  - [daodao-etl](https://github.com/a920604a/daodao-etl)
-  - [GitHub Data Analytics Pipeline](https://github.com/a920604a/gitHub-data-analytics)
+  - Fronted
+    - [My Business Card](https://github.com/a920604a/my-business-card)
+    - [self-reusme-website](https://a920604a.github.io/self-reusme-website/)
+  - Backend
+    - [clothes-outfit](https://github.com/a920604a/clothes-outfit)
 - DevOps
   - [monitoring_system](https://github.com/a920604a/monitoring_system)
-
+- C# and Unity Development
+  - [Age-related Macular Degeneration Rehabilitation Platform](https://github.com/a920604a/amd)
+  - [Garena GameJam 2026 - Aruba](https://github.com/DirtyLeon/garena-gamjam-2026-aruba)
 
 ## 🚀 Key Projects
 
-#### 📊 GitHub Data Analytics Pipeline  
-I built a GitHub Data Analytics Pipeline leveraging **GCP**, **Airflow**, and **BigQuery** to automate the processing of GitHub Watch events and deliver real-time insights into open-source trends and developer engagement via a **Streamlit** dashboard.  
+#### 📰 EngineerNews
+
+I built **EngineerNews**, an AI-powered engineering knowledge platform that helps developers discover and organize high-quality technical content. The platform provides intelligent search, AI-generated summaries, bookmarking, and topic-based classification, enabling engineers to efficiently keep up with AI and software engineering trends.
+
+🔧 *Tech Stack: React, Cloudflare Pages, Cloudflare Workers, Workers AI, Cloudflare D1, Cloudflare R2, GitHub Actions*
+
+
+#### 📊 GitHub Data Analytics Pipeline   
+I built a GitHub Data Analytics Pipeline that processes GitHub Watch events through an automated data workflow, transforming raw developer activity data into analytics insights using **GCP**, **Airflow**, and **BigQuery** with a **Streamlit** dashboard.
+
 🔧 *Tech Stack: GCP, Airflow, BigQuery, Python, Streamlit, Terraform*
 
 ---
 
 #### 📈 Stock Price Prediction with MLOps
-I built a full **MLOps pipeline** for stock price prediction, featuring **automated ETL**, **model training**, **experiment tracking**, **real-time inference**, **monitoring**, and **CI/CD** — powered by **FastAPI**, **Prefect**, **MLflow**, and **Grafana** on a Dockerized infrastructure.  
+I built a full **MLOps pipeline** for stock price prediction, featuring **automated ETL**, **model training**, **experiment tracking**, **real-time inference**, **deployment automation**, and **monitoring workflows** using **FastAPI**, **Prefect**, **MLflow**, and **Grafana**.
+
 🔧 *Tech Stack: Prefect, MLflow, FastAPI, Prometheus, Grafana, PostgreSQL, ClickHouse, Docker Compose, GitHub Actions*
 
 ---
 
 #### 📚 Arxiv Knowledge Assistant 
-I built an **arXiv paper knowledge retrieval platform**, implementing a complete **data ingestion**, **vector-based retrieval**, **LLM RAG**, and **visual Dashboard** system. Users can query paper abstracts, PDFs, and citation sources; developers can configure automated ingestion workflows, manage vector indexes, monitor model performance, and extend the system with personalized RAG strategies.  
+I built an **ArXiv paper knowledge retrieval platform**, implementing a complete **data ingestion**, **vector-based retrieval**, **LLM RAG**, and **visual Dashboard** system. Users can query paper abstracts, PDFs, and citation sources; developers can configure automated ingestion workflows, manage vector indexes, monitor model performance, and extend the system with personalized RAG strategies.  
 🔧 *Tech Stack: FastAPI, Prefect, Qdrant, PostgreSQL, MinIO, React, Docker Compose, Prometheus, Grafana*
+
+#### 🎮 Garena GameJam 2026 - Aruba
+
+I participated in **Garena GameJam 2026** and developed **Aruba**, a game project built within a limited development timeframe. The project focused on rapid prototyping, gameplay implementation, and collaborative game development using Unity and C#.
+
+🔧 *Tech Stack: Unity, C#, Git, Game Development*
 
 ---
 
 
 ## Certifications
-To strengthen my expertise in AI and Data Science, I’ve earned multiple industry-recognized certifications, including:
+To strengthen my expertise in AI, Data Engineering, and Cloud technologies, I pursue industry-recognized certifications and continuous learning.
 
-On-Going
-2026
+In Progress (2026)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4bd28769-3d06-4018-8dde-0b518ffda54c)
 - [Associate Data Practitioner Certification](https://www.credly.com/badges/08492f62-1208-4503-8c8d-6cc4fb777ac1/public_url)
 - [Google AI Professional Certificate](https://coursera.org/share/b261efca04356eeb73cd012cfb32b313)
