@@ -178,10 +178,10 @@ A data engineering pipeline that processes GitHub activity data and transforms i
 
 ### 2026 · In Progress
 
-* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4bd28769-3d06-4018-8dde-0b518ffda54c)
-* [Associate Data Practitioner Certification](https://www.credly.com/badges/08492f62-1208-4503-8c8d-6cc4fb777ac1/public_url)
-* [Google AI Professional Certificate](https://coursera.org/share/b261efca04356eeb73cd012cfb32b313)
-* [Ultimate AWS Certified Solutions Architect Associate 2026](https://www.udemy.com/certificate/UC-863eba0f-177a-4c4d-a12b-206ed6f61560/)
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4bd28769-3d06-4018-8dde-0b518ffda54c)· Amazon
+* [Associate Data Practitioner Certification](https://www.credly.com/badges/08492f62-1208-4503-8c8d-6cc4fb777ac1/public_url)· Google
+* [Google AI Professional Certificate](https://coursera.org/share/b261efca04356eeb73cd012cfb32b313)· Coursera
+* [Ultimate AWS Certified Solutions Architect Associate 2026](https://www.udemy.com/certificate/UC-863eba0f-177a-4c4d-a12b-206ed6f61560/) · udemy
 
 ### 2025
 
