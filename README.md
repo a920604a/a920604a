@@ -119,46 +119,67 @@ A data engineering pipeline that processes GitHub activity data and transforms i
 **Tech:** `Python` `Airflow` `BigQuery` `GCP` `Terraform` `Streamlit`
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,java,cs,js,bash" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,cs,js,cpp,bash" />
 </p>
 
-### AI / Machine Learning
+`MATLAB`
+
+### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow" />
 </p>
 
 `LLM` `RAG` `Ollama` `Hugging Face` `MLflow` `Qdrant`
 
-### Backend & Data
+### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgresql,mysql,sqlite,redis,mongodb,firebase,elasticsearch,cassandra" />
 </p>
 
-`FastAPI` `PostgreSQL` `Redis` `ClickHouse` `Qdrant`
+`ClickHouse` `Qdrant`
 
-### Data Engineering
+### 📊 Data Engineering
 
 `Airflow` `Prefect` `BigQuery` `ETL` `Data Pipelines`
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,terraform,githubactions,linux" />
 </p>
 
-`AWS` `GCP` `Docker` `Kubernetes` `Terraform` `GitHub Actions`
+### 📈 Observability
 
-### Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
-`Prometheus` `Grafana` `Langfuse`
+`Langfuse`
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,pnpm" />
+</p>
+
+### 🎮 Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,kotlin,godot" />
+</p>
+
+### 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,ubuntu,vim,postman,cmake" />
+</p>
 
 ---
 
